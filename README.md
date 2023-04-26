@@ -11,11 +11,10 @@
 ## Dependency
 - Eclipse Java EE 2020-12
 - Taglibs Standerd Impl 1.2.5
-- Jackson Dataind 2.13.1
+- javax.servlet.jsp.jstl-api 1.2.1
 - MySQL 8.0.31
 - Hibernate 5.4.28
 - MySQL JDBC Driver 8.0.23
-- Lombok 1.18.16
 
 ## Usage
 1. 以下のURLにアクセスし、ログイン画面が表示されます。<br>
