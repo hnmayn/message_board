@@ -12,7 +12,6 @@
 - Eclipse Java EE 2020-12
 - Taglibs Standerd Impl 1.2.5
 - javax.servlet.jsp.jstl-api 1.2.1
-- MySQL 8.0.31
 - Hibernate 5.4.28
 - MySQL JDBC Driver 8.0.23
 
